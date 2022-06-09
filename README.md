@@ -1,2 +1,2 @@
 # Tiger-Butter
-corralates all shx-connect grabbytabby stickbot volkan buddha
+corralates all shx-connect grabbytabby stickybot vulkanbuddha
